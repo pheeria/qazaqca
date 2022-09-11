@@ -1,0 +1,26 @@
+{
+  "name": "qazaqca",
+  "version": "0.0.1",
+  "description": "Kazakh Transliterator",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pheeria/qazaqca.git"
+  },
+  "keywords": [
+    "kazakh",
+    "transliterator",
+    "cyrillic-to-latin"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pheeria/qazaqca/issues"
+  },
+  "homepage": "https://github.com/pheeria/qazaqca#readme",
+  "dependencies": {
+    "jest": "^29.0.3"
+  }
+}
