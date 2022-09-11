@@ -3,8 +3,9 @@
   "version": "0.0.1",
   "description": "Kazakh Transliterator",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "test": "jest"
+    "test": "ava"
   },
   "repository": {
     "type": "git",
@@ -20,7 +21,7 @@
     "url": "https://github.com/pheeria/qazaqca/issues"
   },
   "homepage": "https://github.com/pheeria/qazaqca#readme",
-  "dependencies": {
-    "jest": "^29.0.3"
+  "devDependencies": {
+    "ava": "^4.3.3"
   }
 }
