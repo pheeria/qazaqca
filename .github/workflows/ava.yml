@@ -1,7 +1,7 @@
 name: Unit tests
 on: [push]
 jobs:
-  cypress-run:
+  ava-run:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
